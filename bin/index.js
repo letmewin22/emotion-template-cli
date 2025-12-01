@@ -18,7 +18,7 @@ const template =
 
 const getRepo = () => {
   if (template === 'default') {
-    return 'https://github.com/Emotion-Agency/nuxt3-emotion-template'
+    return 'https://github.com/Emotion-Agency/nuxt4-emotion-template'
   }
 
   if (template === 'store') {
